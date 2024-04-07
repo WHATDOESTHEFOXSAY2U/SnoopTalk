@@ -26,7 +26,7 @@ Get started with SnoopTalk by following these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/mehdiselbi/Assignment_2
+git clone https://github.com/WHATDOESTHEFOXSAY2U/snooptalk
 
 # Navigate to the project directory
 cd SnoopTalk
