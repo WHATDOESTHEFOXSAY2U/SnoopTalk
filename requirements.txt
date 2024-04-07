@@ -1,0 +1,8 @@
+pandas==1.3.4
+transformers==4.15.0  # 'huggingface' refers to the transformers library
+openai==0.10.2
+streamlit==1.8.0
+streamlit-chat==0.0.3
+numpy==1.21.2
+simpleaudio==1.0.4
+pyarrow==5.0.0  # Re-added based on common data processing needs
