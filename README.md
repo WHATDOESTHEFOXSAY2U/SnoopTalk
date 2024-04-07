@@ -42,7 +42,7 @@ python app.py
 - **Exploring Voice Synthesis:** Continuously seeking more advanced voice models for unparalleled authenticity.
 - **UI Enhancements:** Planning upgrades to the user interface for an even more engaging experience.
 
-## 🎥 Get Involved & Join Our AI Community on YouTube
+## 🎥 Get Involved on YouTube
 
 We're proud to host a vibrant community of 10,000 artificial intelligence practitioners on our YouTube channel, **[InnoQube](https://www.youtube.com/@InnoQube/)**. Dive into a wealth of knowledge where we explore the intricacies of AI, share groundbreaking project insights, and offer tutorials that empower and educate. Join us to be part of a journey that transforms curiosity into expertise, making AI accessible to all.
 
